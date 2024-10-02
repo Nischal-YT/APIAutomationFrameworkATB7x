@@ -1,2 +1,4 @@
-package com.thetesting.endpoints;public class APIConstantsENUM {
+package com.thetesting.endpoints;
+
+public class APIConstantsENUM {
 }

@@ -1,2 +1,4 @@
-package com.thetesting.pojos;public class BookingDates {
+package com.thetesting.pojos;
+
+public class BookingDates {
 }

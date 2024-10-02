@@ -1,2 +1,9 @@
-package com.thetesting.base;public class BaseTest {
+package com.thetesting.base;
+
+// Common to All to TestCase
+//  Base Test Father -> Testcase - Son - Single Inheritance
+
+public class BaseTest {
+
+
 }

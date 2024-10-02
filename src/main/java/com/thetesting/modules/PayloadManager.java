@@ -1,2 +1,5 @@
-package com.thetesting.modules;public class PayloadManager {
+package com.thetesting.modules;
+
+public class PayloadManager {
+
 }
